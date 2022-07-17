@@ -5,7 +5,7 @@
 <a href="https://github.com/A-anand4866/ChatBot/network/members"><img src="https://img.shields.io/github/forks/A-anand4866/ChatBot" alt="Forks Badge"/></a>
 <a href="https://github.com/A-anand4866/ChatBot/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/A-anand4866/ChatBot?color=2b9348"></a>
 
-Portfolio website build using HTML, CSS and JavaScript.
+Chat bot made using HTML, CSS and JavaScript.
 
 <h2> Website: 
 <a href="https://a-anand4866.github.io/ChatBot/" target="_blank">Visit Now🚀</a>
